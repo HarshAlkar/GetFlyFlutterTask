@@ -15,7 +15,8 @@ lib/
     project_card.dart
 ```
 
-## Images 
+#### Screenshots
+
 <img width="684" height="1446" alt="image" src="https://github.com/user-attachments/assets/54c4a9f5-0404-4ac9-8977-a5a720aeb337" />
 
 <img width="684" height="1446" alt="image" src="https://github.com/user-attachments/assets/e2fc89ec-4bfb-4b1d-9f0d-222ccb039ced" />
@@ -51,11 +52,6 @@ The following keys are added in `ios/Runner/Info.plist` for image picking:
 - Authentication is mocked and not secure.
 - No backend integration; all data is local.
 
-## Screenshots (Placeholders)
-Add screenshots in this section:
-- Login Screen
-- Project List Screen
-- DPR Form Screen & History
 
 ---
 Made with Flutter and Material 3.
