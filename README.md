@@ -15,6 +15,14 @@ lib/
     project_card.dart
 ```
 
+## Images 
+<img width="684" height="1446" alt="image" src="https://github.com/user-attachments/assets/54c4a9f5-0404-4ac9-8977-a5a720aeb337" />
+
+<img width="684" height="1446" alt="image" src="https://github.com/user-attachments/assets/e2fc89ec-4bfb-4b1d-9f0d-222ccb039ced" />
+
+<img width="684" height="1446" alt="image" src="https://github.com/user-attachments/assets/9bee58b2-dc67-4f88-baee-20bce4da70b3" />
+
+
 ## Mock Credentials
 - Email: `test@test.com`
 - Password: `123456`
